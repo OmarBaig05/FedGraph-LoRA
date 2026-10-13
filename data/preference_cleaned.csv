@@ -1,0 +1,399 @@
+userID,preference_prompt,question_prompt,answer,category
+U001,I dislike high speeds over low speeds,Which speed would I prefer: high or low?,low,Transport
+U002,I prefer renewable energy over fossil fuels,Which would I choose: Fossil fuels or Renewable energy?,Renewable energy,Environment
+U003,I prefer classics books over modern books,Which would I choose: Modern book or Classics book?,Classics book,Books
+U004,I dislike rough paths over smooth paths,Which path would I prefer to walk: rough or smooth?,smooth,Travel
+U005,I prefer thriller entertainment over documentary entertainment,Which would I choose: Documentary show or Thriller show?,Thriller show,Entertainment
+U001,I prefer adventure movies over western movies,Which would I choose: Western movie or Adventure movie?,Adventure movie,Movies
+U002,I prefer documentaries over fictional films,Which would I choose: Fictional films or Documentaries?,Documentaries,Entertainment
+U003,I prefer team sports over individual sports,Which would I choose: Individual sport or Team sport?,Team sport,Sports
+U004,I dislike hard fruits over soft fruits,Which fruit texture would I prefer: hard or soft?,soft,Food
+U005,I dislike chaotic events over organized events,Which event would I prefer to attend: chaotic or organized?,organized,Lifestyle
+U001,I prefer vintage clothing over contemporary clothing,Which would I choose: Contemporary outfit or Vintage outfit?,Vintage outfit,Clothing
+U002,I prefer email over social media,Which would I choose: Social media or Email?,Email,Communication
+U003,I prefer high-speed rail over local train,Which would I choose: Local train or High-speed rail?,High-speed rail,Transport
+U004,I prefer ferry over bridge,Which would I choose: Bridge or Ferry?,Ferry,Transport
+U005,I dislike strong winds over gentle breezes,Which wind would I prefer outdoors: strong or gentle?,gentle,Weather
+U001,I prefer surfing sports over skateboarding sports,Which would I choose: Skateboarding sport or Surfing sport?,Surfing sport,Sports
+U002,I prefer online shopping over in-store shopping,Which would I choose: In-store shopping or Online shopping?,Online shopping,Shopping
+U003,I dislike formal invitations over casual invitations,Which invitation would I prefer: formal or casual?,casual,Lifestyle
+U004,I dislike chaotic roads over orderly roads,Which road would I prefer: chaotic or orderly?,orderly,Transport
+U005,I prefer morning workouts over evening workouts,Which would I choose: Evening workouts or Morning workouts?,Morning workouts,Sports
+U001,I prefer summer clothing over winter clothing,Which would I choose: Winter outfit or Summer outfit?,Summer outfit,Clothing
+U002,I prefer solo travel over group travel,Which would I choose: Group trip or Solo trip?,Solo trip,Travel
+U003,I prefer walking over driving,Which would I choose: Driving or Walking?,Walking,Transport
+U004,I dislike high bridges over low bridges,Which bridge would I prefer: high or low?,low,Travel
+U005,I prefer cities travel over countryside travel,Which would I choose: Countryside trip or Cities trip?,Cities trip,Travel
+U001,I prefer learning languages over learning instruments,Which would I choose: Learning instruments or Learning languages?,Learning languages,Education
+U002,I dislike dim lights over bright lights,Which lighting would I prefer in a room: dim or bright?,bright,Home
+U003,I dislike rough seas over calm seas,Which sea would I prefer: rough or calm?,calm,Travel
+U004,I dislike complicated riddles over simple riddles,Which riddle would I prefer: complicated or simple?,simple,Games
+U005,I dislike horror stories over adventure stories,Which story genre would I prefer to read: horror or adventure?,adventure,Books
+U001,I prefer short hair over long hair,Which would I choose: Long hair or Short hair?,Short hair,Beauty
+U002,I prefer working alone over working in teams,Which would I choose: Working in teams or Working alone?,Working alone,Work
+U003,I dislike high pitches over low pitches,Which pitch would I prefer in music: high or low?,low,Music
+U004,I prefer short stories books over epics books,Which would I choose: Epics book or Short stories book?,Short stories book,Books
+U005,I dislike high plateaus over low plateaus,Which plateau would I prefer: high or low?,low,Travel
+U001,I dislike complicated puzzles over simple puzzles,Which puzzle would I prefer to solve: complicated or simple?,simple,Games
+U002,I dislike spicy sauces over mild sauces,Which sauce would I prefer on pasta: spicy or mild?,mild,Food
+U003,I dislike high altitudes over low altitudes,Which altitude would I prefer: high or low?,low,Travel
+U004,I dislike rough terrain over smooth terrain,Which terrain would I prefer to hike on: rough or smooth?,smooth,Travel
+U005,I dislike dark rooms over lit rooms,Which room lighting would I prefer: dark or lit?,lit,Home
+U001,I dislike long workshops over short workshops,Which workshop length would I prefer: long or short?,short,Education
+U002,I prefer boxing sports over wrestling sports,Which would I choose: Wrestling sport or Boxing sport?,Boxing sport,Sports
+U003,I prefer stand-up entertainment over musicals entertainment,Which would I choose: Musicals show or Stand-up show?,Stand-up show,Entertainment
+U004,I prefer historical travel over modern travel,Which would I choose: Modern trip or Historical trip?,Historical trip,Travel
+U005,I prefer fantasy entertainment over reality entertainment,Which would I choose: Reality show or Fantasy show?,Fantasy show,Entertainment
+U001,I prefer listening to podcasts over music,Which would I choose: Music or Podcasts?,Podcasts,Entertainment
+U002,I dislike cold showers over warm showers,Which shower would I prefer: cold or warm?,warm,Lifestyle
+U003,I dislike strong magnets over weak magnets,Which magnet strength would I prefer: strong or weak?,weak,Science
+U004,I prefer contact sports over non-contact sports,Which would I choose: Non-contact sport or Contact sport?,Contact sport,Sports
+U005,I dislike hard candies over soft candies,Which candy would I prefer: hard or soft?,soft,Food
+U001,I prefer mystery books over romance books,Which would I choose: Romance book or Mystery book?,Mystery book,Books
+U002,I dislike long interruptions over short interruptions,Which interruption would I prefer: long or short?,short,Communication
+U003,I dislike tight bands over loose bands,Which band would I prefer: tight or loose?,loose,Accessories
+U004,I prefer spicy food over sweet food,Which would I choose: Sweet dish or Spicy dish?,Spicy dish,Food
+U005,I dislike rigid routines over flexible routines,Which routine would I prefer: rigid or flexible?,flexible,Lifestyle
+U001,I prefer affordable over premium,Which would I choose: Premium device or Affordable device?,Affordable device,Electronics
+U002,I dislike heavy burdens over light burdens,Which burden would I prefer: heavy or light?,light,Lifestyle
+U003,I dislike long curls over short curls,Which curl length would I prefer: long or short?,short,Beauty
+U004,I prefer vegan food over dairy-inclusive food,Which would I choose: Dairy-inclusive dish or Vegan dish?,Vegan dish,Food
+U005,I dislike heavy luggage over light luggage,Which luggage would I prefer to travel with: heavy or light?,light,Travel
+U001,I dislike sour fruits over sweet fruits,Which fruit would I prefer: sour or sweet?,sweet,Food
+U002,I dislike dense crowds over sparse crowds,Which crowd would I prefer: dense or sparse?,sparse,Lifestyle
+U003,I dislike long hair over short hair,Which hairstyle would I prefer: long or short?,short,Beauty
+U004,I prefer instrumental music over vocal music,Which would I choose: Vocal song or Instrumental song?,Instrumental song,Music
+U005,I dislike crowded places over quiet places,Which place would I prefer to relax: crowded or quiet?,quiet,Lifestyle
+U001,I prefer cultural travel over natural travel,Which would I choose: Natural trip or Cultural trip?,Cultural trip,Travel
+U002,I dislike hard biscuits over soft biscuits,Which biscuit would I prefer: hard or soft?,soft,Food
+U003,I prefer reading over watching TV,Which would I choose: Watching TV or Reading?,Reading,Entertainment
+U004,I dislike thick blankets over thin blankets,Which blanket would I prefer: thick or thin?,thin,Home
+U005,I prefer blockbuster movies over indie movies,Which would I choose: Indie movie or Blockbuster movie?,Blockbuster movie,Movies
+U001,I prefer cats over dogs,Which would I choose: Dogs or Cats?,Cats,Pets
+U002,I dislike intense workouts over mild workouts,Which workout would I prefer: intense or mild?,mild,Sports
+U003,I prefer trains over airplanes,Which would I choose: Airplanes or Trains?,Trains,Transport
+U004,I prefer horror books over comedy books,Which would I choose: Comedy book or Horror book?,Horror book,Books
+U005,I prefer indoor plants over outdoor gardens,Which would I choose: Outdoor gardens or Indoor plants?,Indoor plants,Home
+U001,I dislike bitter cocktails over sweet cocktails,Which cocktail would I prefer: bitter or sweet?,sweet,Beverage
+U002,I dislike formal emails over casual emails,Which email style would I prefer: formal or casual?,casual,Communication
+U003,I prefer rain over snow,Which would I choose: Snow or Rain?,Rain,Weather
+U004,I dislike formal letters over casual letters,Which letter style would I prefer: formal or casual?,casual,Communication
+U005,I dislike loud whistles over soft whistles,Which whistle would I prefer: loud or soft?,soft,Sports
+U001,I prefer grilled food over fried food,Which would I choose: Fried dish or Grilled dish?,Grilled dish,Food
+U002,I prefer sports wear clothing over office wear clothing,Which would I choose: Office wear outfit or Sports wear outfit?,Sports wear outfit,Clothing
+U003,I prefer neutral colors over bright colors,Which would I choose: Bright colors or Neutral colors?,Neutral colors,Design
+U004,I dislike high volumes over low volumes,Which volume would I prefer: high or low?,low,Music
+U005,I dislike bitter herbs over sweet herbs,Which herb would I prefer: bitter or sweet?,sweet,Food
+U001,I prefer poetry books over novels books,Which would I choose: Novels book or Poetry book?,Poetry book,Books
+U002,I dislike thick carpets over thin carpets,Which carpet would I prefer: thick or thin?,thin,Home
+U003,I prefer swimming over running,Which would I choose: Running or Swimming?,Swimming,Sports
+U004,I dislike dark chocolate over milk chocolate,Which chocolate would I prefer: dark or milk?,milk,Food
+U005,I prefer metal music over blues music,Which would I choose: Blues song or Metal song?,Metal song,Music
+U001,I dislike dense fog over light mist,Which visibility would I prefer: dense fog or light mist?,light mist,Weather
+U002,I dislike rough streams over calm streams,Which stream would I prefer: rough or calm?,calm,Travel
+U003,I dislike messy rooms over tidy rooms,Which room state would I prefer: messy or tidy?,tidy,Home
+U004,I dislike long beards over short beards,Which beard length would I prefer: long or short?,short,Beauty
+U005,I dislike dark paths over lit paths,Which path would I prefer: dark or lit?,lit,Lifestyle
+U001,I prefer quiet neighborhoods over busy neighborhoods,Which would I choose: Busy neighborhoods or Quiet neighborhoods?,Quiet neighborhoods,Lifestyle
+U002,I prefer digital books over physical books,Which would I choose: Physical books or Digital books?,Digital books,Books
+U003,I dislike strong winds over mild winds,Which wind strength would I prefer: strong or mild?,mild,Weather
+U004,I dislike noisy buttons over quiet buttons,Which button would I prefer on device: noisy or quiet?,quiet,Electronics
+U005,I prefer dance music over chill music,Which would I choose: Chill song or Dance song?,Dance song,Music
+U001,I dislike noisy birds over quiet birds,Which bird would I prefer as pet: noisy or quiet?,quiet,Pets
+U002,I dislike heavy backpacks over light backpacks,Which backpack would I prefer to carry: heavy or light?,light,Accessories
+U003,I prefer road trips travel over flights travel,Which would I choose: Flights trip or Road trips trip?,Road trips trip,Travel
+U004,I prefer minimalist clothing over elaborate clothing,Which would I choose: Elaborate outfit or Minimalist outfit?,Minimalist outfit,Clothing
+U005,I dislike loud alarms over soft alarms,Which alarm sound would I prefer: loud or soft?,soft,Lifestyle
+U001,I prefer casual clothing over formal clothing,Which would I choose: Formal outfit or Casual outfit?,Casual outfit,Clothing
+U002,I prefer yoga sports over weightlifting sports,Which would I choose: Weightlifting sport or Yoga sport?,Yoga sport,Sports
+U003,I dislike heavy rain over light drizzle,Which rain would I prefer: heavy or light?,light,Weather
+U004,I prefer pizza over burgers,Which would I choose: Burgers or Pizza?,Pizza,Food
+U005,I dislike formal lunches over casual lunches,Which lunch would I prefer: formal or casual?,casual,Lifestyle
+U001,I dislike thick books over thin books,Which book thickness would I prefer: thick or thin?,thin,Books
+U002,I dislike heavy perfumes over light perfumes,Which perfume intensity would I prefer: heavy or light?,light,Beauty
+U003,I dislike rigid contracts over flexible contracts,Which contract would I prefer: rigid or flexible?,flexible,Business
+U004,I prefer planning ahead over spontaneous decisions,Which would I choose: Spontaneous decisions or Planning ahead?,Planning ahead,Lifestyle
+U005,I dislike thick rugs over thin rugs,Which rug would I prefer: thick or thin?,thin,Home
+U001,I prefer TV shows entertainment over movies entertainment,Which would I choose: Movies show or Tv shows show?,Tv shows show,Entertainment
+U002,I prefer eco-friendly clothing over synthetic clothing,Which would I choose: Synthetic outfit or Eco-friendly outfit?,Eco-friendly outfit,Clothing
+U003,I dislike rough waters over calm waters,Which water would I prefer: rough or calm?,calm,Travel
+U004,I dislike bitter syrups over sweet syrups,Which syrup would I prefer: bitter or sweet?,sweet,Health
+U005,I dislike bitter greens over sweet greens,Which green would I prefer: bitter or sweet?,sweet,Food
+U001,I dislike long speeches over short speeches,Which speech length would I prefer: long or short?,short,Entertainment
+U002,I dislike tight shoes over loose shoes,Which shoe fit would I prefer: tight or loose?,loose,Clothing
+U003,I prefer horror movies over animation movies,Which would I choose: Animation movie or Horror movie?,Horror movie,Movies
+U004,I dislike loud radios over soft radios,Which radio volume would I prefer: loud or soft?,soft,Electronics
+U005,I prefer rock music over pop music,Which would I choose: Pop song or Rock song?,Rock song,Music
+U001,I prefer sunrise over sunset,Which would I choose: Sunset or Sunrise?,Sunrise,Nature
+U002,I prefer tea over coffee,Which would I choose: Coffee or Tea?,Tea,Beverage
+U003,I prefer comedies over dramas,Which would I choose: Dramas or Comedies?,Comedies,Entertainment
+U004,I prefer small dogs over large dogs,Which would I choose: Large dogs or Small dogs?,Small dogs,Pets
+U005,I prefer silence over background music,Which would I choose: Background music or Silence?,Silence,Lifestyle
+U001,I dislike dark caves over lit caves,Which cave would I prefer: dark or lit?,lit,Travel
+U002,I dislike noisy traffic over quiet streets,Which street would I prefer: noisy or quiet?,quiet,Transport
+U003,I dislike thick sauces over thin sauces,Which sauce consistency would I prefer: thick or thin?,thin,Food
+U004,I dislike high waves over calm seas,Which sea condition would I prefer: high waves or calm?,calm,Travel
+U005,I dislike strong perfumes over subtle perfumes,Which perfume would I prefer: strong or subtle?,subtle,Beauty
+U001,I dislike heavy weights over light weights,Which weight would I prefer to lift: heavy or light?,light,Sports
+U002,I dislike heavy coats over light coats,Which coat would I prefer in winter: heavy or light?,light,Clothing
+U003,I dislike noisy reptiles over quiet reptiles,Which reptile would I prefer as pet: noisy or quiet?,quiet,Pets
+U004,I dislike tight ropes over loose ropes,Which rope would I prefer: tight or loose?,loose,Sports
+U005,I prefer manual labor over desk work,Which would I choose: Desk work or Manual labor?,Manual labor,Work
+U001,I prefer fantasy movies over war movies,Which would I choose: War movie or Fantasy movie?,Fantasy movie,Movies
+U002,I dislike cluttered desks over clean desks,Which desk would I prefer to work on: cluttered or clean?,clean,Home
+U003,I dislike sour jams over sweet jams,Which jam would I prefer: sour or sweet?,sweet,Food
+U004,I dislike tight belts over loose belts,Which belt fit would I prefer: tight or loose?,loose,Clothing
+U005,I dislike long waits at airports over short waits,Which wait would I prefer at airports: long or short?,short,Travel
+U001,I dislike noisy pets over quiet pets,Which pet would I prefer: noisy or quiet?,quiet,Pets
+U002,I prefer sci-fi books over fantasy books,Which would I choose: Fantasy book or Sci-fi book?,Sci-fi book,Books
+U003,I dislike noisy neighbors over calm neighbors,Which neighbor type would I prefer: noisy or calm?,calm,Lifestyle
+U004,I dislike cluttered wallets over organized wallets,Which wallet would I prefer: cluttered or organized?,organized,Accessories
+U005,I dislike noisy keyboards over quiet keyboards,Which keyboard would I prefer: noisy or quiet?,quiet,Electronics
+U001,I prefer healthy food over junk food,Which would I choose: Junk dish or Healthy dish?,Healthy dish,Food
+U002,I dislike tight laces over loose laces,Which lace would I prefer: tight or loose?,loose,Clothing
+U003,I dislike thick gravies over thin gravies,Which gravy would I prefer: thick or thin?,thin,Food
+U004,I dislike humid weather over dry weather,Which weather would I prefer for outdoor activities: humid or dry?,dry,Weather
+U005,I prefer comfortable clothing over stylish clothing,Which would I choose: Stylish outfit or Comfortable outfit?,Comfortable outfit,Clothing
+U001,I dislike dense clouds over light clouds,Which cloud would I prefer: dense or light?,light,Weather
+U002,I dislike bitter taste over sour taste,Which flavor would I prefer in candy: bitter or sour?,sour,Food
+U003,I prefer adventure entertainment over mystery entertainment,Which would I choose: Mystery show or Adventure show?,Adventure show,Entertainment
+U004,I dislike bitter spices over sweet spices,Which spice would I prefer: bitter or sweet?,sweet,Food
+U005,I dislike noisy blenders over quiet blenders,Which blender would I prefer: noisy or quiet?,quiet,Home
+U001,I dislike bitter juices over sweet juices,Which juice would I prefer: bitter or sweet?,sweet,Beverage
+U002,I dislike complicated mazes over simple mazes,Which maze would I prefer: complicated or simple?,simple,Games
+U003,I dislike bold flavors over mild flavors,Which flavor intensity would I prefer: bold or mild?,mild,Food
+U004,I dislike rigid rules over flexible rules,Which rules would I prefer in a game: rigid or flexible?,flexible,Games
+U005,I prefer adventure books over drama books,Which would I choose: Drama book or Adventure book?,Adventure book,Books
+U001,I dislike rigid frameworks over flexible frameworks,Which framework would I prefer: rigid or flexible?,flexible,Engineering
+U002,I dislike noisy fans over quiet fans,Which fan would I prefer: noisy or quiet?,quiet,Home
+U003,I dislike complex games over easy games,Which game would I prefer: complex or easy?,easy,Games
+U004,I dislike complicated circuits over simple circuits,Which circuit would I prefer: complicated or simple?,simple,Electronics
+U005,I prefer noise-cancelling over standard,Which would I choose: Standard device or Noise-cancelling device?,Noise-cancelling device,Electronics
+U001,I prefer action entertainment over comedy entertainment,Which would I choose: Comedy show or Action show?,Action show,Entertainment
+U002,I dislike bumpy roads over smooth roads,Which road would I prefer to drive on: bumpy or smooth?,smooth,Transport
+U003,I prefer foreign movies over Hollywood movies,Which would I choose: Hollywood movie or Foreign movie?,Foreign movie,Movies
+U004,I dislike rough fabrics over soft fabrics,Which fabric would I prefer in clothes: rough or soft?,soft,Clothing
+U005,I dislike heavy hats over light hats,Which hat would I prefer: heavy or light?,light,Clothing
+U001,I prefer hot food over cold food,Which would I choose: Cold dish or Hot dish?,Hot dish,Food
+U002,I dislike long eyelashes over short eyelashes,Which eyelash length would I prefer: long or short?,short,Beauty
+U003,I prefer action movies over romantic comedy movies,Which would I choose: Romantic comedy movie or Action movie?,Action movie,Movies
+U004,I prefer thriller movies over musical movies,Which would I choose: Musical movie or Thriller movie?,Thriller movie,Movies
+U005,I prefer bikes over walking,Which would I choose: Walking or Bikes?,Bikes,Transport
+U001,I dislike long queues over short queues,Which queue would I prefer: long or short?,short,Lifestyle
+U002,I dislike thriller novels over mystery novels,Which novel genre would I prefer: thriller or mystery?,mystery,Books
+U003,I prefer international travel over domestic travel,Which would I choose: Domestic trip or International trip?,International trip,Travel
+U004,I dislike stormy weather over calm weather,Which weather would I prefer for sailing: stormy or calm?,calm,Weather
+U005,I prefer vanilla over chocolate,Which would I choose: Chocolate or Vanilla?,Vanilla,Food
+U001,I dislike long braids over short braids,Which braid length would I prefer: long or short?,short,Beauty
+U002,I dislike heavy covers over light covers,Which cover would I prefer: heavy or light?,light,Home
+U003,I dislike bold prints over subtle prints,Which print would I prefer on fabric: bold or subtle?,subtle,Clothing
+U004,I dislike heavy makeup over natural makeup,Which makeup style would I prefer: heavy or natural?,natural,Beauty
+U005,I dislike hard chairs over soft chairs,Which chair would I prefer: hard or soft?,soft,Home
+U001,I dislike complicated codes over simple codes,Which code would I prefer to write: complicated or simple?,simple,Programming
+U002,I prefer public over private,Which would I choose: Private or Public?,Public,Transport
+U003,I dislike loud chimes over soft chimes,Which chime would I prefer: loud or soft?,soft,Home
+U004,I dislike loud speakers over soft speakers,Which speaker volume would I prefer: loud or soft?,soft,Electronics
+U005,I dislike bitter teas over herbal teas,Which tea type would I prefer: bitter or herbal?,herbal,Beverage
+U001,I dislike noisy mice over quiet mice,Which mouse would I prefer for computer: noisy or quiet?,quiet,Electronics
+U002,I dislike rough trails over smooth trails,Which trail would I prefer: rough or smooth?,smooth,Travel
+U003,I dislike spicy dips over mild dips,Which dip would I prefer: spicy or mild?,mild,Food
+U004,I dislike complicated locks over simple locks,Which lock would I prefer: complicated or simple?,simple,Home
+U005,I dislike bitter roots over sweet roots,Which root would I prefer: bitter or sweet?,sweet,Food
+U001,I dislike heavy lotions over light lotions,Which lotion would I prefer: heavy or light?,light,Beauty
+U002,I dislike strong teas over weak teas,Which tea strength would I prefer: strong or weak?,weak,Beverage
+U003,I dislike dense smoke over light smoke,Which smoke would I prefer: dense or light?,light,Environment
+U004,I dislike dark colors over light colors,Which color scheme would I prefer in decor: dark or light?,light,Home
+U005,I prefer oldies music over new hits music,Which would I choose: New hits song or Oldies song?,Oldies song,Music
+U001,I prefer long battery life over high processing power,Which would I choose: High processing power device or Long battery life device?,Long battery life device,Electronics
+U002,I dislike high currents over low currents,Which current would I prefer in water: high or low?,low,Travel
+U003,I dislike loud horns over soft horns,Which horn sound would I prefer in a car: loud or soft?,soft,Transport
+U004,I dislike intense sun over soft sun,Which sun would I prefer: intense or soft?,soft,Weather
+U005,I dislike early mornings over late nights,Which time would I prefer to work: early mornings or late nights?,late nights,Lifestyle
+U001,I dislike chaotic traffic over orderly traffic,Which traffic would I prefer: chaotic or orderly?,orderly,Transport
+U002,I dislike long fringes over short fringes,Which fringe length would I prefer: long or short?,short,Beauty
+U003,I dislike complicated algorithms over simple algorithms,Which algorithm would I prefer: complicated or simple?,simple,Programming
+U004,I dislike high heels over flat shoes,Which footwear would I prefer for walking: high heels or flat?,flat,Clothing
+U005,I prefer pencils over pens,Which would I choose: Pens or Pencils?,Pencils,Stationery
+U001,I prefer saving money over spending money,Which would I choose: Spending money or Saving money?,Saving money,Finance
+U002,I prefer minimalist decor over elaborate decor,Which would I choose: Elaborate decor or Minimalist decor?,Minimalist decor,Home
+U003,I dislike bitter sodas over sweet sodas,Which soda would I prefer: bitter or sweet?,sweet,Beverage
+U004,I prefer handwriting over typing,Which would I choose: Typing or Handwriting?,Handwriting,Communication
+U005,I dislike sour yogurt over sweet yogurt,Which yogurt would I prefer: sour or sweet?,sweet,Food
+U001,I prefer local travel over international travel,Which would I choose: International travel or Local travel?,Local travel,Travel
+U002,I dislike long movies over short movies,Which movie length would I prefer: long or short?,short,Entertainment
+U003,I dislike bitter medicines over sweet medicines,Which medicine taste would I prefer: bitter or sweet?,sweet,Health
+U004,I dislike bitter wines over sweet wines,Which wine would I prefer: bitter or sweet?,sweet,Beverage
+U005,I dislike formal attire over casual attire,Which attire would I prefer: formal or casual?,casual,Clothing
+U001,I prefer salads over sandwiches,Which would I choose: Sandwiches or Salads?,Salads,Food
+U002,I prefer sci-fi movies over drama movies,Which would I choose: Drama movie or Sci-fi movie?,Sci-fi movie,Movies
+U003,I dislike bitter pills over coated pills,Which pill would I prefer: bitter or coated?,coated,Health
+U004,I dislike long waits over quick service,Which service would I prefer at a restaurant: long waits or quick?,quick,Lifestyle
+U005,I dislike heavy scents over light scents,Which scent would I prefer: heavy or light?,light,Beauty
+U001,I prefer cooking at home over dining out,Which would I choose: Dining out or Cooking at home?,Cooking at home,Food
+U002,I prefer electronic music over acoustic music,Which would I choose: Acoustic song or Electronic song?,Electronic song,Music
+U003,I dislike fizzy drinks over still drinks,Which drink would I prefer: fizzy or still?,still,Beverage
+U004,I dislike tight scarves over loose scarves,Which scarf fit would I prefer: tight or loose?,loose,Clothing
+U005,I dislike thick stews over thin stews,Which stew would I prefer: thick or thin?,thin,Food
+U001,I dislike thick mats over thin mats,Which mat would I prefer: thick or thin?,thin,Home
+U002,I dislike heavy lids over light lids,Which lid would I prefer: heavy or light?,light,Home
+U003,I dislike sour berries over sweet berries,Which berry would I prefer: sour or sweet?,sweet,Food
+U004,I dislike heavy duties over light duties,Which duty would I prefer: heavy or light?,light,Work
+U005,I dislike bitter vegetables over sweet vegetables,Which vegetable would I prefer: bitter or sweet?,sweet,Food
+U001,I prefer electric over gas,Which would I choose: Gas or Electric?,Electric,Transport
+U002,I dislike bumpy cars over smooth cars,Which car ride would I prefer: bumpy or smooth?,smooth,Transport
+U003,I prefer running sports over swimming sports,Which would I choose: Swimming sport or Running sport?,Running sport,Sports
+U004,I prefer R&B music over soul music,Which would I choose: Soul song or R&b song?,R&b song,Music
+U005,I dislike chaotic intersections over orderly intersections,Which intersection would I prefer: chaotic or orderly?,orderly,Transport
+U001,I dislike salty snacks over crunchy snacks,Which snack would I prefer: salty or crunchy?,crunchy,Food
+U002,I dislike formal meetings over casual meetings,Which meeting would I prefer: formal or casual?,casual,Work
+U003,I dislike tight hats over loose hats,Which hat fit would I prefer: tight or loose?,loose,Clothing
+U004,I dislike complicated recipes over simple recipes,Which recipe would I prefer to cook: complicated or simple?,simple,Food
+U005,I dislike long delays over short delays,Which delay would I prefer: long or short?,short,Transport
+U001,I dislike rough waves over gentle waves,Which wave would I prefer at the beach: rough or gentle?,gentle,Travel
+U002,I dislike noisy microwaves over quiet microwaves,Which microwave would I prefer: noisy or quiet?,quiet,Home
+U003,I prefer smart over traditional,Which would I choose: Traditional device or Smart device?,Smart device,Electronics
+U004,I prefer camping over hotels,Which would I choose: Hotels or Camping?,Camping,Travel
+U005,I prefer high-resolution over low-resolution,Which would I choose: Low-resolution device or High-resolution device?,High-resolution device,Electronics
+U001,I dislike intense cold over mild cold,Which cold would I prefer: intense or mild?,mild,Weather
+U002,I prefer Italian food over Chinese food,Which would I choose: Chinese dish or Italian dish?,Italian dish,Food
+U003,I dislike heavy loads over light loads,Which load would I prefer to carry: heavy or light?,light,Lifestyle
+U004,I dislike bitter ales over sweet ales,Which ale would I prefer: bitter or sweet?,sweet,Beverage
+U005,I dislike strong coffee over weak coffee,Which coffee strength would I prefer: strong or weak?,weak,Beverage
+U001,I prefer fast over scenic,Which would I choose: Scenic or Fast?,Fast,Transport
+U002,I prefer summer travel over winter travel,Which would I choose: Winter trip or Summer trip?,Summer trip,Travel
+U003,I prefer reggae music over folk music,Which would I choose: Folk song or Reggae song?,Reggae song,Music
+U004,I dislike intense lights over soft lights,Which light would I prefer: intense or soft?,soft,Home
+U005,I dislike bitter tea over sweet tea,Which tea would I prefer: bitter or sweet?,sweet,Beverage
+U001,I dislike bold scents over mild scents,Which scent intensity would I prefer: bold or mild?,mild,Beauty
+U002,I dislike bumpy buses over smooth buses,Which bus ride would I prefer: bumpy or smooth?,smooth,Transport
+U003,I dislike bumpy trains over smooth trains,Which train ride would I prefer: bumpy or smooth?,smooth,Transport
+U004,I prefer tennis sports over golf sports,Which would I choose: Golf sport or Tennis sport?,Tennis sport,Sports
+U005,I prefer budget travel over luxury travel,Which would I choose: Luxury trip or Budget trip?,Budget trip,Travel
+U001,I dislike sour dips over sweet dips,Which dip would I prefer: sour or sweet?,sweet,Food
+U002,I dislike formal dinners over casual dinners,Which dinner would I prefer: formal or casual?,casual,Lifestyle
+U003,I dislike formal notes over casual notes,Which note style would I prefer: formal or casual?,casual,Communication
+U004,I dislike long nails over short nails,Which nail length would I prefer: long or short?,short,Beauty
+U005,I prefer animated entertainment over live-action entertainment,Which would I choose: Live-action show or Animated show?,Animated show,Entertainment
+U001,I dislike heavy creams over light creams,Which cream would I prefer: heavy or light?,light,Beauty
+U002,I dislike chaotic stores over organized stores,Which store would I prefer: chaotic or organized?,organized,Shopping
+U003,I dislike bitter tonics over sweet tonics,Which tonic would I prefer: bitter or sweet?,sweet,Health
+U004,I prefer puzzles over crosswords,Which would I choose: Crosswords or Puzzles?,Puzzles,Games
+U005,I prefer biographies books over self-help books,Which would I choose: Self-help book or Biographies book?,Biographies book,Books
+U001,I dislike chaotic malls over organized malls,Which mall would I prefer: chaotic or organized?,organized,Shopping
+U002,I prefer board games over video games,Which would I choose: Video games or Board games?,Board games,Games
+U003,I dislike rainy weather over sunny weather,Which weather would I prefer for a picnic: rainy or sunny?,sunny,Weather
+U004,I dislike high tides over low tides,Which tide would I prefer at beach: high or low?,low,Travel
+U005,I dislike sour pickles over sweet pickles,Which pickle would I prefer: sour or sweet?,sweet,Food
+U001,I dislike noisy vacuums over quiet vacuums,Which vacuum would I prefer: noisy or quiet?,quiet,Home
+U002,I dislike bumpy flights over smooth flights,Which flight would I prefer: bumpy or smooth?,smooth,Transport
+U003,I prefer wireless over wired,Which would I choose: Wired device or Wireless device?,Wireless device,Electronics
+U004,I dislike rigid plans over flexible plans,Which plan would I prefer: rigid or flexible?,flexible,Lifestyle
+U005,I prefer seafood food over red meat food,Which would I choose: Red meat dish or Seafood dish?,Seafood dish,Food
+U001,I prefer fiction books over non-fiction books,Which would I choose: Non-fiction book or Fiction book?,Fiction book,Books
+U002,I prefer scooter over motorcycle,Which would I choose: Motorcycle or Scooter?,Scooter,Transport
+U003,I dislike bold aromas over mild aromas,Which aroma would I prefer: bold or mild?,mild,Beauty
+U004,I dislike foggy weather over clear weather,Which weather would I prefer for driving: foggy or clear?,clear,Weather
+U005,I prefer beaches over mountains,Which would I choose: Mountains or Beaches?,Beaches,Travel
+U001,I prefer superhero entertainment over historical entertainment,Which would I choose: Historical show or Superhero show?,Superhero show,Entertainment
+U002,I dislike complicated quizzes over simple quizzes,Which quiz would I prefer: complicated or simple?,simple,Games
+U003,I dislike strong currents over weak currents,Which current would I prefer in river: strong or weak?,weak,Travel
+U004,I dislike dark tunnels over lit tunnels,Which tunnel would I prefer: dark or lit?,lit,Transport
+U005,I dislike high towers over low towers,Which tower would I prefer: high or low?,low,Travel
+U001,I dislike high mountains over low hills,Which elevation would I prefer to climb: high mountains or low hills?,low hills,Travel
+U002,I dislike high spires over low spires,Which spire would I prefer: high or low?,low,Travel
+U003,I dislike spicy soups over mild soups,Which soup would I prefer: spicy or mild?,mild,Food
+U004,I prefer organic food over processed food,Which would I choose: Processed dish or Organic dish?,Organic dish,Food
+U005,I dislike formal events over casual events,Which event type would I prefer: formal or casual?,casual,Lifestyle
+U001,I dislike rigid schedules over flexible schedules,Which schedule would I prefer: rigid or flexible?,flexible,Lifestyle
+U002,I prefer Android over iOS,Which would I choose: Ios device or Android device?,Android device,Electronics
+U003,I prefer hip-hop music over country music,Which would I choose: Country song or Hip-hop song?,Hip-hop song,Music
+U004,I dislike windy weather over still weather,Which weather would I prefer for flying kites: windy or still?,still,Weather
+U005,I prefer bright colors clothing over neutral colors clothing,Which would I choose: Neutral colors outfit or Bright colors outfit?,Bright colors outfit,Clothing
+U001,I dislike chaotic markets over organized markets,Which market would I prefer to shop in: chaotic or organized?,organized,Shopping
+U002,I prefer cycling sports over skiing sports,Which would I choose: Skiing sport or Cycling sport?,Cycling sport,Sports
+U003,I prefer window seat over aisle seat,Which would I choose: Aisle seat or Window seat?,Window seat,Transport
+U004,I dislike hard nuts over soft nuts,Which nut would I prefer: hard or soft?,soft,Food
+U005,I dislike heavy gates over light gates,Which gate would I prefer: heavy or light?,light,Home
+U001,I dislike chaotic junctions over orderly junctions,Which junction would I prefer: chaotic or orderly?,orderly,Transport
+U002,I prefer weekends over weekdays,Which would I choose: Weekdays or Weekends?,Weekends,Lifestyle
+U003,I dislike bitter liqueurs over sweet liqueurs,Which liqueur would I prefer: bitter or sweet?,sweet,Beverage
+U004,I dislike long lectures over short lectures,Which lecture length would I prefer: long or short?,short,Education
+U005,I dislike high peaks over low peaks,Which peak would I prefer to reach: high or low?,low,Travel
+U001,I dislike noisy fish over quiet fish,Which fish would I prefer as pet: noisy or quiet?,quiet,Pets
+U002,I prefer small gatherings over large parties,Which would I choose: Large parties or Small gatherings?,Small gatherings,Social
+U003,I dislike spicy salads over mild salads,Which salad would I prefer: spicy or mild?,mild,Food
+U004,I prefer streaming services over cable TV,Which would I choose: Cable TV or Streaming services?,Streaming services,Entertainment
+U005,I prefer cash over credit cards,Which would I choose: Credit cards or Cash?,Cash,Finance
+U001,I dislike loud TVs over soft TVs,Which TV volume would I prefer: loud or soft?,soft,Electronics
+U002,I dislike cluttered drawers over organized drawers,Which drawer would I prefer: cluttered or organized?,organized,Home
+U003,I dislike spicy tacos over mild tacos,Which taco would I prefer: spicy or mild?,mild,Food
+U004,I dislike complicated knots over simple knots,Which knot would I prefer to tie: complicated or simple?,simple,Lifestyle
+U005,I prefer adventure travel over relaxation travel,Which would I choose: Relaxation trip or Adventure trip?,Adventure trip,Travel
+U001,I dislike bold spices over mild spices,Which spice intensity would I prefer: bold or mild?,mild,Food
+U002,I dislike sour sauces over sweet sauces,Which sauce would I prefer: sour or sweet?,sweet,Food
+U003,I dislike strong infusions over weak infusions,Which infusion would I prefer: strong or weak?,weak,Beverage
+U004,I dislike strong brews over weak brews,Which brew would I prefer: strong or weak?,weak,Beverage
+U005,I dislike cold drinks over hot drinks,Which beverage would I prefer in winter: cold or hot?,hot,Beverage
+U001,I prefer buses over cars,Which would I choose: Cars or Buses?,Buses,Transport
+U002,I prefer mountains travel over beaches travel,Which would I choose: Beaches trip or Mountains trip?,Mountains trip,Travel
+U003,I prefer soccer sports over basketball sports,Which would I choose: Basketball sport or Soccer sport?,Soccer sport,Sports
+U004,I prefer paperback books over ebook books,Which would I choose: Ebook book or Paperback book?,Paperback book,Books
+U005,I dislike tight gloves over loose gloves,Which glove fit would I prefer: tight or loose?,loose,Clothing
+U001,I prefer brand name clothing over generic clothing,Which would I choose: Generic outfit or Brand name outfit?,Brand name outfit,Clothing
+U002,I dislike noisy dryers over quiet dryers,Which dryer would I prefer: noisy or quiet?,quiet,Home
+U003,I prefer compact over bulky,Which would I choose: Bulky device or Compact device?,Compact device,Electronics
+U004,I dislike noisy toasters over quiet toasters,Which toaster would I prefer: noisy or quiet?,quiet,Home
+U005,I prefer vegetarian food over non-vegetarian food,Which would I choose: Non-vegetarian dish or Vegetarian dish?,Vegetarian dish,Food
+U001,I dislike sour fruits over ripe fruits,Which fruit ripeness would I prefer: sour or ripe?,ripe,Food
+U002,I dislike rigid policies over flexible policies,Which policy would I prefer: rigid or flexible?,flexible,Lifestyle
+U003,I prefer subway over taxi,Which would I choose: Taxi or Subway?,Subway,Transport
+U004,I dislike rigid systems over flexible systems,Which system would I prefer: rigid or flexible?,flexible,Technology
+U005,I prefer lightweight over powerful,Which would I choose: Powerful device or Lightweight device?,Lightweight device,Electronics
+U001,I dislike noisy trackpads over quiet trackpads,Which trackpad would I prefer: noisy or quiet?,quiet,Electronics
+U002,I dislike heavy doors over light doors,Which door would I prefer to open: heavy or light?,light,Home
+U003,I dislike long ponytails over short ponytails,Which ponytail length would I prefer: long or short?,short,Beauty
+U004,I prefer taking notes by hand over digital notes,Which would I choose: Digital notes or Taking notes by hand?,Taking notes by hand,Education
+U005,I dislike high prices over low prices,Which pricing would I prefer when shopping: high or low?,low,Shopping
+U001,I dislike chaotic bazaars over organized bazaars,Which bazaar would I prefer: chaotic or organized?,organized,Shopping
+U002,I prefer handmade gifts over store-bought gifts,Which would I choose: Store-bought gifts or Handmade gifts?,Handmade gifts,Gifts
+U003,I dislike cluttered shelves over organized shelves,Which shelf would I prefer: cluttered or organized?,organized,Home
+U004,I dislike bold designs over subtle designs,Which design would I prefer: bold or subtle?,subtle,Art
+U005,I prefer portable over stationary,Which would I choose: Stationary device or Portable device?,Portable device,Electronics
+U001,I prefer comedy movies over tragedy movies,Which would I choose: Tragedy movie or Comedy movie?,Comedy movie,Movies
+U002,I dislike thick soups over thin soups,Which soup consistency would I prefer: thick or thin?,thin,Food
+U003,I dislike noisy machines over quiet machines,Which machine would I prefer: noisy or quiet?,quiet,Electronics
+U004,I prefer quality over quantity,Which would I choose: Quantity or Quality?,Quality,Philosophy
+U005,I dislike tight knots over loose knots,Which knot tightness would I prefer: tight or loose?,loose,Lifestyle
+U001,I dislike cluttered bags over organized bags,Which bag would I prefer: cluttered or organized?,organized,Accessories
+U002,I prefer sci-fi entertainment over romance entertainment,Which would I choose: Romance show or Sci-fi show?,Sci-fi show,Entertainment
+U003,I prefer low-carb food over high-carb food,Which would I choose: High-carb dish or Low-carb dish?,Low-carb dish,Food
+U004,I dislike long pauses over short pauses,Which pause would I prefer: long or short?,short,Communication
+U005,I dislike loud bells over soft bells,Which bell sound would I prefer: loud or soft?,soft,Home
+U001,I dislike heavy scarves over light scarves,Which scarf would I prefer: heavy or light?,light,Clothing
+U002,I prefer drama entertainment over horror entertainment,Which would I choose: Horror show or Drama show?,Drama show,Entertainment
+U003,I dislike noisy irons over quiet irons,Which iron would I prefer: noisy or quiet?,quiet,Home
+U004,I dislike dark alleys over lit streets,Which path would I prefer at night: dark alleys or lit streets?,lit streets,Lifestyle
+U005,I dislike high swells over low swells,Which swell would I prefer in ocean: high or low?,low,Travel
+U001,I dislike rigid structures over flexible structures,Which structure would I prefer: rigid or flexible?,flexible,Engineering
+U002,I dislike bold strokes over subtle strokes,Which stroke would I prefer in painting: bold or subtle?,subtle,Art
+U003,I dislike bold lines over subtle lines,Which line would I prefer in drawing: bold or subtle?,subtle,Art
+U004,I dislike long seminars over short seminars,Which seminar length would I prefer: long or short?,short,Education
+U005,I dislike rough roads over paved roads,Which road would I prefer: rough or paved?,paved,Transport
+U001,I dislike dense forests over open fields,Which landscape would I prefer: dense forests or open fields?,open fields,Travel
+U002,I dislike noisy environments over peaceful environments,Which environment would I prefer to study in: noisy or peaceful?,peaceful,Lifestyle
+U003,I dislike spicy curries over mild curries,Which curry would I prefer: spicy or mild?,mild,Food
+U004,I prefer texting over phone calls,Which would I choose: Phone calls or Texting?,Texting,Communication
+U005,I prefer classical music over jazz music,Which would I choose: Jazz song or Classical song?,Classical song,Music
+U001,I prefer warm weather over cold weather,Which would I choose: Cold weather or Warm weather?,Warm weather,Weather
+U002,I prefer loose clothing over fitted clothing,Which would I choose: Fitted outfit or Loose outfit?,Loose outfit,Clothing
+U003,I dislike strong gusts over mild gusts,Which gust would I prefer: strong or mild?,mild,Weather
+U004,I dislike sour candies over sweet candies,Which candy flavor would I prefer: sour or sweet?,sweet,Food
+U005,I dislike bold patterns over plain patterns,Which pattern would I prefer on clothes: bold or plain?,plain,Clothing
+U001,I prefer natural remedies over synthetic medicines,Which would I choose: Synthetic medicines or Natural remedies?,Natural remedies,Health
+U002,I prefer outdoor sports over indoor sports,Which would I choose: Indoor sport or Outdoor sport?,Outdoor sport,Sports
+U003,I dislike high cliffs over low cliffs,Which cliff would I prefer to view: high or low?,low,Travel
+U004,I prefer superhero movies over biographical movies,Which would I choose: Biographical movie or Superhero movie?,Superhero movie,Movies
+U005,I dislike manual cars over automatic cars,Which car type would I prefer to drive: manual or automatic?,automatic,Transport
+U001,I dislike intense heat over mild heat,Which heat would I prefer: intense or mild?,mild,Weather
+U002,I dislike high notes over low notes,Which note would I prefer in song: high or low?,low,Music
+U003,I dislike loud music over soft music,Which music volume would I prefer at a party: loud or soft?,soft,Music
